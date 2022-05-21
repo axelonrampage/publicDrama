@@ -47,8 +47,8 @@ fn(8,1,3,1,'excel')
 fn(9,1,1,1,'frequencyRatio')
 fn(10,1,1,0,'result')
 fn(11,1,1,0,'selectedFeatures')
-fn(12,1,1,1,'')
-
+fn(12,1,1,1,'')                     # this will only make tt dir
+                                    # if code dosnt work for tt for EXISTING DIR try [ fn(anyId,1,idOfDir,1,'') ]  change the parameters to dir generating error 
 
 
 
